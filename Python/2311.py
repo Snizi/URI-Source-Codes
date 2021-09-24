@@ -1,0 +1,3 @@
+competidores = int(input())
+
+atletas = []
